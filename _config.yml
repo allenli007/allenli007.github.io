@@ -112,6 +112,6 @@ friends: [
         href: "https://developer.apple.com/"
     },{
         title: "BBS",
-        href: "https://bbs.lilunyi.com:89/"
+        href: "bbs.lilunyi.com:89"
     }
 ]
